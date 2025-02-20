@@ -1,0 +1,59 @@
+.carta{
+    background-color: #4f8ac0;
+    width: 400px;
+    height: 700px;
+    margin: auto;
+    padding-top: 20px;
+    border-radius: 20px;
+    box-shadow:0 0 8px 2px #0ccdc3;
+}
+
+.imgps5 img{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    display: block;
+    border-radius: 70px;
+    
+}
+
+video{
+    width: 370px;
+    height: 370px;
+    display: block;
+    margin: auto;
+}
+
+.carta header h1{
+    padding-top: 10px;
+    text-align: center;
+    color:#070be7;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.carta header p{
+    margin: auto;
+    text-align: center;
+    color:#ffffff;
+    padding: 0 10px;
+}
+
+nav{
+    width: 30px;
+    height: 50px;
+    margin: auto;
+}
+
+button{
+    text-decoration: none;
+    padding: 0;
+    border: 0;
+
+    
+   
+}
+
+button a{
+    text-decoration: none;
+}
